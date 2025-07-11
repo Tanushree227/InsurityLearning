@@ -11,3 +11,7 @@ PCNM on existing policy
 SAN: 95637430000000
 On Renewal Policy:
 SAN: 45180530000000
+
+2 GL Policy:
+8. Multi State SAN: 12090530000000
+9. Package Policy SAN: 13090530000000
