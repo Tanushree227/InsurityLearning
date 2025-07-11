@@ -1,2 +1,13 @@
 1. LA-SAN: 04970530000000
 2. MT-SAN: 30180530000000
+3. GL SAN: 46180530000000
+4. GL SAN(composite do not have exposure field) SAN: 97180530000000
+For the base:
+5. SAN: 36280530000000(non composite)
+6. SAN: 78480530000000(for composite groups)
+
+7. LA Surcharge SAN: 04970530000000
+PCNM on existing policy
+SAN: 95637430000000
+On Renewal Policy:
+SAN: 45180530000000
