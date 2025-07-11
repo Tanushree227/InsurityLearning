@@ -1,5 +1,6 @@
 1 Auto policy with 52 states
 10/07/2025:
+SAN: 44011530000000
 1 Auto Policy
 Liability symbol 1 
 UI/UIM 2
