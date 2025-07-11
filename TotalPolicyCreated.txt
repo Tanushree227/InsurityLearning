@@ -15,3 +15,7 @@ SAN: 45180530000000
 2 GL Policy:
 8. Multi State SAN: 12090530000000
 9. Package Policy SAN: 13090530000000
+
+Workers Policy:
+10. MT Workers Policy SAN: 44090530000000
+11. UT Workers Policy SAN: 74090530000000
