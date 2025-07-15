@@ -19,7 +19,7 @@
 19. LA state SAN: 61821530000000
 20. MA state SAN: 71821530000000
 21. MD state SAN: 02821530000000
-22. ME state SAN:
+22. ME state SAN: 72821530000000
 23. MI state SAN:
 24. MN state SAN:
 25. MO state SAN:
@@ -49,4 +49,4 @@
 49. WA state SAN:
 50. WI state SAN:
 51. WV state SAN:
-52. WY state SAN:
+52.
