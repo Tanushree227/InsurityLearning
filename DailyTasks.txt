@@ -7,3 +7,7 @@ UI/UIM 2
 
 16/07/2025:
 SAN WK: 18731530000000
+
+GL CO Policy create for 06/01/2024
+GL DC Policy create for 06/01/2024
+GL FL Policy create for 06/01/2024
