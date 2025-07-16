@@ -4,3 +4,6 @@ SAN: 44011530000000
 1 Auto Policy
 Liability symbol 1 
 UI/UIM 2
+
+16/07/2025:
+SAN WK: 18731530000000
