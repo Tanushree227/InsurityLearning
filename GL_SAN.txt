@@ -9,7 +9,7 @@
 9. DC state SAN: 87031530000000
 10. FL state SAN: 39031530000000
 11. GA state SAN: 38431530000000
-12. HI state SAN: 
+12. HI state SAN: 98431530000000
 13. IA state SAN: 
 14. ID state SAN: 
 15. IL state SAN: 
