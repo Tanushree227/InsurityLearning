@@ -1,7 +1,7 @@
 1. AK state SAN: 67351530000000
 2. AL state SAN: 95161530000000
 3. AZ state SAN: 26161530000000
-4. AR state SAN:
+4. AR state SAN: 66161530000000
 5. CA state SAN:
 6. CO state SAN:
 7. CT state SAN:
