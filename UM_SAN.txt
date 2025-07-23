@@ -4,7 +4,7 @@
 4. AR state SAN: 66161530000000
 5. CA state SAN: 67161530000000
 6. CO state SAN: 65361530000000
-7. CT state SAN:
+7. CT state SAN: 40961530000000
 8. DE state SAN:
 9. DC state SAN:
 10. FL state SAN:
