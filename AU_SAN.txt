@@ -3,7 +3,7 @@
 3. AZ state SAN: 02081530000000
 4. AR state SAN: 52081530000000
 5. CA state SAN: 43081530000000
-6. CO state SAN:
+6. CO state SAN: 74081530000000
 7. CT state SAN:
 8. DE state SAN:
 9. DC state SAN:
