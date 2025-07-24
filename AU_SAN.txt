@@ -6,7 +6,7 @@
 6. CO state SAN: 74081530000000
 7. CT state SAN: 37081530000000
 8. DE state SAN: 50381530000000
-9. DC state SAN:
+9. DC state SAN: 83381530000000
 10. FL state SAN:
 11. GA state SAN:
 12. HI state SAN:
