@@ -25,7 +25,7 @@
 25. MO state SAN:
 26. MS state SAN:
 27. MT state SAN:
-28. NC state SAN:
+28. NC state SAN: 15172530000000
 29. ND state SAN:
 30. NE state SAN:
 31. NH state SAN:
