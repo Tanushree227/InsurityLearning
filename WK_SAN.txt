@@ -39,7 +39,7 @@
 39. PA state SAN: 06921530000000
 40. PR state SAN: not in states dropdown
 41. RI state SAN: 66921530000000
-42. SC state SAN: 53941530000000(error)
+42. SC state SAN: 53941530000000
 43. SD state SAN: 05351530000000(error)
 44. TN state SAN:
 45. TX state SAN:
