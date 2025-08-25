@@ -43,7 +43,7 @@
 43. SD state SAN: 05351530000000
 44. TN state SAN: 45313530000000
 45. TX state SAN:
-46. UT state SAN:
+46. UT state SAN: 81423530000000
 47. VA state SAN:
 48. VT state SAN:
 49. WA state SAN:
