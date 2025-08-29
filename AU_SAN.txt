@@ -40,7 +40,7 @@
 40. PR state SAN:
 41. RI state SAN:
 42. SC state SAN:
-43. SD state SAN:
+43. SD state SAN: 07553530000000
 44. TN state SAN:
 45. TX state SAN:
 46. UT state SAN:
