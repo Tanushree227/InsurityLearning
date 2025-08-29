@@ -30,7 +30,7 @@
 30. NE state SAN:
 31. NH state SAN:
 32. NJ state SAN:
-33. NM state SAN:
+33. NM state SAN: 86553530000000
 34. NV state SAN:
 35. NY state SAN:
 36. OH state SAN:
