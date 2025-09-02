@@ -6,13 +6,12 @@ Writing Company: 001
 Transaction Type: NBQU 
 The following forms are displayed: 
 Selected these forms 
-Convert to Book 
-The forms that are displayed on BNDR transaction type: 
+Convert to Booked Policy, and the forms are displayed on BNDR transaction type:  
 Transaction Type: NBIS(BDIS) 
 The forms that are displayed are: 
 Policy Preview: 
 Forms that are displayed in Policy Writing Index: 
-Schedule of Forms 
+Schedule of Forms and Endorsements
 Insured Copy Schedule Forms that displays the following forms: 
 Insured Copy of
 
