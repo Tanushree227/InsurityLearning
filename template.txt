@@ -17,3 +17,7 @@ Insured Copy of
 
 
 GL Writing Company: 1, 5, 7, and 8
+
+VM Credentials:
+username: tanu.das@SI-LTI.local
+password: DKX-zvk5pkg!kgj3hqu
