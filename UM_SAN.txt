@@ -39,7 +39,7 @@
 39. PA state SAN:
 40. PR state SAN:
 41. RI state SAN:
-42. SC state SAN:
+42. SC state SAN: 74734530000000
 43. SD state SAN:
 44. TN state SAN:
 45. TX state SAN:
