@@ -12,7 +12,7 @@ The forms that are displayed are:
 Policy Preview: 
 Forms that are displayed in Policy Writing Index: 
 Schedule of Forms and Endorsements
-Insured Copy Schedule Forms that displays the following forms: 
+Insured Copy Schedule Forms that display the following forms: 
 Insured Copy of
 
 
@@ -21,3 +21,5 @@ GL Writing Company: 1, 5, 7, and 8
 VM Credentials:
 username: tanu.das@SI-LTI.local
 password: DKX-zvk5pkg!kgj3hqu
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
