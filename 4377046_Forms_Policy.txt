@@ -26,3 +26,5 @@ GL AU PR Package Policy: 27948530000000
 AU PR Package Policy: 53058530000000
 GL PR Monoline Policy: 	14058530000000
 
+IM GL TX Package Policy: 18558530000000
+
