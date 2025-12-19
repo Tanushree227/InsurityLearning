@@ -35,4 +35,5 @@ GL TX NY Package Policy: 20658530000000
 3. AK GL IM Package Policy: 68868530000000
 4. WV GL IM Package Policy: 59868530000000
 5. AK GL Monoline Policy: 61968530000000
-6. or GL Monoline Policy: 12968530000000
+6. OR GL Monoline Policy: 12968530000000
+7. WV GL Monoline Policy: 04968530000000
