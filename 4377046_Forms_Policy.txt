@@ -6,8 +6,18 @@ Effective Date: 03/01/2026
 Writing Company: 001
 LOB: Package (GL)
 Transaction Type: NBQU
+The Form Condition 125 is getting triggered:
+The following form are displayed for the package policy in the forms grid:
+Testing for state  (Package Policy):
+DB SP 26.01 
+SAN:  
+State: 
+Effective Date: 03/01/2026
+Writing Company: 001
+LOB: Package (GL & IM)
+Transaction Type: NBQU
 The Form Condition 124 is getting triggered:
-The following dot version forms are displayed for the package policy in the forms grid:
+The following form are displayed for the package policy in the forms grid:
 Testing for state  (Monoline Policy):
 DB SP 26.01 
 SAN:  
@@ -16,7 +26,7 @@ Effective Date: 03/01/2026
 Writing Company: 001
 LOB: Monoline (GL)
 Transaction Type: NBQU
-The Form Condition 125 is getting triggered:
+The form condition 125 is getting triggered:
 The following forms are displayed:
 
 
@@ -77,3 +87,5 @@ GL ME Package Policy: 86378530000000
 GL NE Package Policy: 68378530000000
 GL PR Monoline Policy: 14058530000000
 GL ME Monoline Policy: 39578530000000
+
+GL IM AL Package Policy: 22678530000000
