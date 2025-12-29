@@ -82,7 +82,7 @@ GL TX NY Package Policy: 20658530000000
 16. GL NM Package Policy: 86278530000000
 17. GL VT Monoline Policy: 37278530000000
 18. GL MS Monoline Policy: 74788530000000
-19. GL NM Monoline Policy: 
+19. GL NM Monoline Policy: 75788530000000
 
 20. GL PR Package Policy: 18278530000000
 21. GL ME Package Policy: 86378530000000
