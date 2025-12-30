@@ -149,3 +149,5 @@ GL TX NY Package Policy: 20658530000000
 76. GL IN Monoline Policy: 21198530000000
 
 77. GL IM CT Package Policy: 61198530000000
+78. GL CT Package Policy: 
+79. GL CT Monoline Policy: 44198530000000
