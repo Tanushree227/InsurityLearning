@@ -175,3 +175,5 @@ GL TX NY Package Policy: 20658530000000
 99. GL ID Package Policy: 94498530000000
 100. GL ID Monoline Policy: 15498530000000
 101. GL IM SD Package Policy: 55498530000000
+102. GL SD Package Policy: 
+103. GL SD Monoline Policy: 98498530000000
