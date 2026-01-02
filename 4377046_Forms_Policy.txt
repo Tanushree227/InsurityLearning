@@ -195,5 +195,5 @@ GL TX NY Package Policy: 20658530000000
 117. GL KS Package Policy: 59798530000000
 118. GL KS Monoline Policy: 99798530000000
 119. GL IM GA Package Policy: 20898530000000
-120. GL GA Package Policy: 
+120. GL GA Package Policy: 40898530000000
 121. GL GA Monoline Policy: 
