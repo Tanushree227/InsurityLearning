@@ -204,6 +204,6 @@ GL TX NY Package Policy: 20658530000000
 125. GL IM NC Package Policy: 14898530000000
 126. GL NC Package Policy: 84898530000000
 127. GL NC Monoline Policy: 05898530000000
-128. GL IM UT Package Policy: 
+128. GL IM UT Package Policy: 55898530000000
 129. GL UT Package Policy: 
 130. GL UT Monoline Policy: 
