@@ -34,7 +34,7 @@
 34. NV state SAN:
 35. NY state SAN:
 36. OH state SAN: 46553530000000
-37. OK state SAN:
+37. OK state SAN: 06519530000000
 38. OR state SAN: 24519530000000
 39. PA state SAN: 43519530000000
 40. PR state SAN: invalid for UM
