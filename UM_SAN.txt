@@ -21,7 +21,7 @@
 21. MD state SAN:
 22. ME state SAN:
 23. MI state SAN: 16553530000000
-24. MN state SAN:
+24. MN state SAN: 93830630000000
 25. MO state SAN:
 26. MS state SAN:
 27. MT state SAN: 36553530000000
